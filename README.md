@@ -1,8 +1,8 @@
-# TanksDuel_Monogame
+# TankSimulator_Monogame
 
 <img src = "https://github.com/joao13soares/TanksDuel_Monogame/blob/main/TanksDuel.png" width = "500">
 
-Tanks Duel game made in Monogame, as a project for the Introduction to 3D Programming university course.
+Tank Simulator game made in Monogame, as a project for the Introduction to 3D Programming university course.
 
 The goal of this project was to implement a 3D tanks duel simulator game.
 
