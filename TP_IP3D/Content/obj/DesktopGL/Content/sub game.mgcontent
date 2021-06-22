@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/João/Desktop/IPCA/2º ano (2019-2020)/Introdução à Programação 3D/Trabalho Prático/TP_IP3D/TP_IP3D/Content/sub game.mp3</SourceFile>
+  <SourceTime>2019-06-08T07:13:04.0217254+01:00</SourceTime>
+  <DestFile>C:/Users/João/Desktop/IPCA/2º ano (2019-2020)/Introdução à Programação 3D/Trabalho Prático/TP_IP3D/TP_IP3D/Content/bin/DesktopGL/Content/sub game.xnb</DestFile>
+  <DestTime>2019-12-21T21:16:37.6720159+00:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/João/Desktop/IPCA/2º ano (2019-2020)/Introdução à Programação 3D/Trabalho Prático/TP_IP3D/TP_IP3D/Content/bin/DesktopGL/Content/sub game.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

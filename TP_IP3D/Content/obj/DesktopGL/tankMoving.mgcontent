@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Joao Soares/Desktop/IPCA/2º ano (2019-2020)/1º semestre/Introdução à Programação 3D/Trabalho Prático/TP_IP3D/TP_IP3D/Content/tankMoving.wav</SourceFile>
+  <SourceTime>2019-12-21T21:05:56.2000295+00:00</SourceTime>
+  <DestFile>C:/Users/Joao Soares/Desktop/IPCA/2º ano (2019-2020)/1º semestre/Introdução à Programação 3D/Trabalho Prático/TP_IP3D/TP_IP3D/Content/bin/DesktopGL/tankMoving.xnb</DestFile>
+  <DestTime>2021-06-22T21:12:44.346073+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

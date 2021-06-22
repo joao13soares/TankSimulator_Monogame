@@ -1,0 +1,77 @@
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\lh3d1.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\TP_IP3D.exe
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\TP_IP3D.pdb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csprojAssemblyReference.cache
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csproj.CopyComplete
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.exe
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.pdb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\test1.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\engine_diff_tex.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\engine_diff_tex_0.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\tank.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\turret_alt_diff_tex.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\turret_alt_diff_tex_0.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\grass.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\CannonBall.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\cannonBallHitTank.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\cannonBallThrown.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\sub game.ogg
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\sub game.xnb
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tankMoving.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\cannonBallHitTank.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\cannonBallThrown.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\grass.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\lh3d1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\tankMoving.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\Content\test1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\cannonBallHitTank.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\cannonBallThrown.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\grass.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\lh3d1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tankMoving.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\test1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\CannonBall.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\engine_diff_tex.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\engine_diff_tex_0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\tank.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\turret_alt_diff_tex.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\Content\tank\turret_alt_diff_tex_0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\TP_IP3D.exe
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\TP_IP3D.pdb
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csproj.AssemblyReference.cache
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csproj.CoreCompileInputs.cache
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.csproj.CopyComplete
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.exe
+C:\Users\Joao Soares\Desktop\IPCA\2º ano (2019-2020)\1º semestre\Introdução à Programação 3D\Trabalho Prático\TP_IP3D\TP_IP3D\obj\Debug\TP_IP3D.pdb
