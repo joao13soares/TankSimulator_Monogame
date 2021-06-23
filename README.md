@@ -12,7 +12,7 @@ Game Goals:
 Game Features:
 - 3 different camera modes: ghost, surface follow, tank follow;
 - 3 different playing modes: PLayer1 vs CPU, Player1 vs Player2, CPU vs CPU;
-- Noise-map terrain generation;
+- Noise-map based terrain generation;
 - Particle Systems during the tanks' movement and shooting. 
 
 This was a project made by:
